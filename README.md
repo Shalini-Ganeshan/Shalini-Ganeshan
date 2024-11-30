@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 -->
-- 😄 Here's my [portfolio](https://shalini-ganeshab-web.netlify.app/) 
+- 😄 Here's my [portfolio](https://shalini-ganeshan-web.netlify.app/) 
 - 🔭 I’m currently working on Mern Projects
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me: <br />
