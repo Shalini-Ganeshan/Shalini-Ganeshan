@@ -9,6 +9,7 @@
 
 Here are some ideas to get you started:
 -->
+- ⚡ Oracle Certified Java Professional
 - 😄 Here's my [portfolio](https://shalini-ganeshan-web.netlify.app/) 
 - 🔭 I’m currently working on Java Projects
 - 🌱 I’m currently learning DSA
