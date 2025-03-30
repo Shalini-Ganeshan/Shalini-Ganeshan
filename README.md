@@ -26,11 +26,19 @@ Here are some ideas to get you started:
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  <img height="50" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="40" width="70" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253696/docker-icon-icon-md.png"/> <img height="60" width="60" src="https://products.containerize.com/fr/live-chat/botpress/menu_image.png"/><img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
-![Shalini's GitHub stats]()
 
-[![Leetcode Stats]()
+![Shalini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shalini-Ganeshan&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Shalini's github activity graph]()
+[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/shalini_288)](https://www.geeksforgeeks.org/user/shalini_288/)
+
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ShaliniGaneshan?ext=contest&theme=dark)](https://leetcode.com/ShaliniGaneshan)
+
+
+
+
+
+
 
 
 
