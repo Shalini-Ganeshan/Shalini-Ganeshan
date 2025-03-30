@@ -1,4 +1,4 @@
-<img align="center"  src="https://img.freepik.com/free-vector/v873-bb-1_53876-166692.jpg?t=st=1712041102~exp=1712044702~hmac=cb72e45ca12b839cc9647467164b604b2f182747f94a6464a946ad024a64c895&w=1060">
+
 <h1 align="center">Hi 👋, I'm Shalini</h1>
 <h3 align="center">Computer Science Engineering Student</h3>
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif>
