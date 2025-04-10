@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 -->
 - ⚡ Oracle Certified Java Professional
-- 😄 Here's my [portfolio](https://shalini-ganeshan-web.netlify.app/)
+- 😄 Here's my [portfolio](https://shaliniganeshan.netlify.app/)
 - 🏆 Institute Rank 1 @Gfg
 - 🔭 I’m currently working on Java Projects
 - 🌱 I’m currently learning DSA
