@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 -->
-- ⚡ Oracle Certified Java Professional
+- ⚡ Oracle Certified Java Professional (1Z0-819)
 - 😄 Here's my [portfolio](https://shaliniganeshan.netlify.app/)
 - 🏆 Institute Rank 1 @Gfg
 - 🔭 I’m currently working on Java Projects
