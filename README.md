@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 ### Leetcode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/ShaliniGaneshan?ext=contest&theme=dark)](https://leetcode.com/ShaliniGaneshan)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/shalini_288?ext=contest&theme=dark)](https://leetcode.com/shalini_288)
 
 
 
