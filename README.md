@@ -30,9 +30,6 @@ Here are some ideas to get you started:
 
 ![Shalini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shalini-Ganeshan&theme=dark&show_icons=true&&hide=issues,contribs)
 
-### GeeksforGeeks Stats
-
-[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/shalini_288)](https://www.geeksforgeeks.org/user/shalini_288/)
 
 
 
